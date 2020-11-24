@@ -1,0 +1,7 @@
+.slider-area{
+    background-image: url(../img/h1_hero.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+  }

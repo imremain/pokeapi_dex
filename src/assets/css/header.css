@@ -1,0 +1,8 @@
+.slider-area.slider-area2, .slider-area2.slider-area2 {
+    background-image: url(../img/hero2.png);
+    height: 70vh;
+}
+
+.hero__caption, .hero__caption2 h1{
+    text-transform: capitalize;
+}
