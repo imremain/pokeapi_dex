@@ -1,6 +1,6 @@
 # Getting Started with PokeapiDex
  
- Pokedex is project made with React + Redux to use pokeapi.co API, to know more about this API visit [Pokeapi.co](https://pokeapi.co/)
+ Pokeapi-Dex is a project made with React + Redux to use pokeapi.co API, to know more about this API visit [Pokeapi.co](https://pokeapi.co/)
  [![Mega Charizard-X](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png "Mega Charizard-X")](https://pokeapi-dex.vercel.app/)
  
 ## Technologies
